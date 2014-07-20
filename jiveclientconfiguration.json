@@ -1,0 +1,5 @@
+{
+    "clientUrl": "http://osc-devhack.rhcloud.com/",
+    "port": "80",
+    "development": true
+}

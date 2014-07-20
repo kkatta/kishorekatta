@@ -1,0 +1,6 @@
+{
+    "name": "osc_opty_cartridge",
+    "displayName": "Oracle Sales Cloud",
+    "patterns": ["https://isv23-crm-crm-ext.oracle.com/","https://isv23-crm-fs-ext.oracle.com"],
+    "zipFileName":"osc-opty.zip"
+}

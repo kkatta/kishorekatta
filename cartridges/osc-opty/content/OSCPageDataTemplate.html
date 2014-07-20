@@ -1,0 +1,14 @@
+﻿<div style="background-color: white; padding: 7px; border: 1px solid gray; box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.18); max-width: 550px;">
+    <table style="border: 0px solid #CCC; border-collapse: collapse;">
+        {{for fields}}
+        <tr>
+            <td style="color: #747474; text-align: right; vertical-align: top;">
+                {{>name}}:
+            </td>
+            <td style="padding-left: 10px; min-width: 250px; vertical-align: top;">
+                {{>value}}
+            </td>
+        </tr>
+        {{/for}}
+    </table>
+</div>
